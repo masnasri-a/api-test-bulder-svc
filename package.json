@@ -1,0 +1,12 @@
+{
+  "name": "api-test-bulder-svc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/masnasri-a/api-test-bulder-svc.git",
+  "author": "Nasri Adzlani <nasri@jkt1.ebdesk.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  },
+  "scripts": {}
+}
